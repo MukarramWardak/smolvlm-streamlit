@@ -1,0 +1,10 @@
+streamlit==1.32.2
+streamlit-webrtc==0.47.7
+
+torch==2.5.1
+transformers==4.48.3
+
+Pillow
+numpy
+av
+opencv-python-headless
